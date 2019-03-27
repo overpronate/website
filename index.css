@@ -13,7 +13,7 @@ body{
 #banner {
     font-size: 35px;
     text-align: center;
-    border: 2px solid #1C6EA4;
+    border: 3px solid rgb(0, 125, 207);
     margin: 0 auto;
 }
 
@@ -29,7 +29,7 @@ body{
 #left-column {
     float: left;
     width: 300px;
-    border: 2px solid #1C6EA4;
+    border: 3px solid rgb(0, 125, 207);
     height: 100%;
     margin-top: 20px;
     padding: 10px;

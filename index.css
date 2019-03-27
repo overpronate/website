@@ -1,17 +1,47 @@
 body{
     background-color:rgb(215, 225, 245);
 }
+
 h2{
     color:rgb(29, 29, 143);
 }
 
 body{
-    font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif
+    font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
 }
 
 #banner {
-    font: size 30px;
+    font-size: 35px;
     text-align: center;
     border: 2px solid #1C6EA4;
     margin: 0 auto;
+}
+
+.question {
+    margin: 30;
+}
+
+#center-column {
+    float: left;
+    width: 50%;
+}
+
+#left-column {
+    float: left;
+    width: 300px;
+    border: 2px solid #1C6EA4;
+    height: 100%;
+    margin-top: 20px;
+    padding: 10px;
+}
+
+.left-column-icon {
+    margin-left: 5px;
+    width:25px;
+    height: 25px;
+}
+
+.about-me-photo {
+    width: 100%;
+    margin-bottom: 10px;
 }
